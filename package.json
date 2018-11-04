@@ -20,7 +20,7 @@
   "dependencies": {
     "crel": "^3.0.0",
     "@jimpick/prosemirror-state": "^1.2.2-4",
-    "prosemirror-commands": "^1.0.0",
+    "@jimpick/prosemirror-commands": "^1.0.7-1",
     "@jimpick/prosemirror-history": "^1.0.3-1"
   },
   "devDependencies": {
