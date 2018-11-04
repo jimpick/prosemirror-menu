@@ -1,6 +1,6 @@
 {
   "name": "@jimpick/prosemirror-menu",
-  "version": "1.0.5-1",
+  "version": "1.0.5-2",
   "description": "Simple menu elements for ProseMirror",
   "main": "dist/index.js",
   "module": "src/index.js",
