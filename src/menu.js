@@ -1,4 +1,4 @@
-import crel from "crel"
+import crel from "@jimpick/crel"
 import {lift, joinUp, selectParentNode, wrapIn, setBlockType} from "@jimpick/prosemirror-commands"
 import {undo, redo} from "@jimpick/prosemirror-history"
 

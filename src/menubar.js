@@ -1,4 +1,4 @@
-import crel from "crel"
+import crel from "@jimpick/crel"
 import {Plugin} from "@jimpick/prosemirror-state"
 
 import {renderGrouped} from "./menu"
