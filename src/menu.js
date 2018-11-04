@@ -1,6 +1,6 @@
 import crel from "crel"
 import {lift, joinUp, selectParentNode, wrapIn, setBlockType} from "prosemirror-commands"
-import {undo, redo} from "prosemirror-history"
+import {undo, redo} from "@jimpick/prosemirror-history"
 
 import {getIcon} from "./icons"
 
